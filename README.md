@@ -5,7 +5,7 @@ Pickup location, near Kawasaki JR station.
 
 | Item                                                                          | Price   |
 | ----------------------------------------------------------------------------- | ------- |
-| [Katoji Crib](photos/Crib.jpg)                                                       | ¥5000   |
+| [Katoji Crib](photos/Crib.jpg)                                                | ¥5000   |
 | [Crib Hanging Rotating Toys](photos/CribToy.jpg)                              | ¥500    |
 | Unused Baby Mattress For Crib                                                 | ¥500    |
 | Baby Stroller (Joie 41872) with accessories. Rain Gear, Shoe Clip, Bag Holder | ¥10,000 |
@@ -16,7 +16,7 @@ Pickup location, near Kawasaki JR station.
 | [Baby Mosquito Net](photos/BabyMosquitoNet.jpg)                               | ¥500    |
 | [Alphabet Baby Gym](photos/BabyGym.jpg)                                       | ¥500    |
 | Unused Baby Toilet Seat                                                       | ¥500    |
-| Plastic Baby Bath                                                             | ¥500    |
+| Plastic Baby Bathtub                                                          | ¥500    |
 | Bed + Mattress                                                                | ¥10000  |
 | Mattress                                                                      | ¥5000   |
 | Futon Set                                                                     | ¥500    |
