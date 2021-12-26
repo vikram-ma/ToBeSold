@@ -5,7 +5,7 @@ Pickup location, near Kawasaki JR station.
 
 | Item                                                                          | Price   |
 | ----------------------------------------------------------------------------- | ------- |
-| [Crib](photos/Crib.jpg)                                                       | ¥5000   |
+| [Katoji Crib](photos/Crib.jpg)                                                       | ¥5000   |
 | [Crib Hanging Rotating Toys](photos/CribToy.jpg)                              | ¥500    |
 | Unused Baby Mattress For Crib                                                 | ¥500    |
 | Baby Stroller (Joie 41872) with accessories. Rain Gear, Shoe Clip, Bag Holder | ¥10,000 |
@@ -36,3 +36,4 @@ Pickup location, near Kawasaki JR station.
 | Cloth Clips/Hangers                                                           | Free    |
 | Table Fan                                                                     | Free    |
 | [Mixer/Grinder (Preeti Platinum)](photos/MixerGrinder.jpg)                    | ¥5000   |
+| Office Chair                                                                  | ¥2000   |
