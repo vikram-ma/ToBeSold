@@ -1,5 +1,6 @@
 # ToBeSold
 We will be leaving Japan soon. Hence selling all thing we have.
+Most of the baby stuff is avaialble immediately. House stuff can be picked from early to mid Feb.
 Pickup location, near Kawasaki JR station.
 
 | Item                                                                          | Price   |
