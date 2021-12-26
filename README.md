@@ -24,7 +24,7 @@ Pickup location, near Kawasaki JR station.
 | Refrigerator (Sharp SJ-PD27B-T, new costs ¥70,000)                            | ¥10,000 |
 | Foldable Bicycle                                                              | ¥5000   |
 | Gray Sofa with Ottoman                                                        | ¥5000   |
-| Rice Cooker                                                                   | ¥500    |
+| Rice Cooker (National SR-CJ05)                                                | ¥500    |
 | Work Table 2 Levels  (Suitable For Work From Home)                            | ¥500    |
 | Table (Can be used for small TV)                                              | ¥500    |
 | Ceiling Light (Panasonic HHL4022EP)                                           | ¥1000   |
